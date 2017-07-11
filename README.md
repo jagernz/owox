@@ -4,4 +4,6 @@
 
 VirtualBox + Vagrant + PuPHPet
 
+В данном случае Vagrantfile считывает все зависимости которые описаны в \owox\puphpet\config.yaml, так как все зависимости были сформированы с использванием сервиса 
+PuPHPet.
 

@@ -8,6 +8,8 @@ VirtualBox + Vagrant + PuPHPet
 
 После клонирования репозитория, в командной строке прописываем "vagrant up".
 
+Перед выполнением данной окмманды необходимо установить VirtualBox(https://www.virtualbox.org/) и Vagrant(https://www.vagrantup.com/) соответственно.
+
 Вагрант формирует виртуальную машину согласно зависимостей в Vagrantfile.
 
 Доступ к виртульному серверу через "vagrant ssh".
